@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "AY-Plugin")(type "KiCad")(uri "${KIPRJMOD}/AY-Plugin.pretty")(options "")(descr ""))
+)
